@@ -1,0 +1,21 @@
+body {
+	background-color:gray;
+}
+h1 {
+	font-family: ubuntu;
+
+}
+p{
+	color:blue;
+	border:2px solid;
+
+}
+#igor {
+	font-family: ubuntu;
+	font-size: 10px;
+}
+
+	.special{
+		border: 3px dotted blue;
+
+	}
